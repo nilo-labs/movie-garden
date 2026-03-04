@@ -1,4 +1,4 @@
-# 🎬 Movie Garden
+# Movie Garden
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@ O **Movie Garden** é uma aplicação web completa (Fullstack) construída com u
 ![Página Inicial](assets/inicial.png)
 ![Página de Catálogo](assets/catalogo.gif)
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Catálogo Dinâmico:** Filmes e séries em alta, bem avaliados e recomendados, consumindo a API do TMDB.
 - **Busca com Inteligência Artificial:** Não sabe o nome do filme? Descreva o que você quer assistir e a IA recomenda os melhores títulos.
@@ -27,7 +27,7 @@ O **Movie Garden** é uma aplicação web completa (Fullstack) construída com u
 - **Autenticação Segura:** Login e registro de usuários protegidos com JWT.
 - **Design System Próprio:** Componentes de interface reutilizáveis isolados em um pacote dedicado (`@movie-garden/ui`).
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Este projeto utiliza um ecossistema moderno focado em performance e tipagem estática ponta a ponta.
 
@@ -51,7 +51,7 @@ Este projeto utiliza um ecossistema moderno focado em performance e tipagem est�
 - Monorepo (pnpm workspaces / Turborepo)
 - ESLint & Prettier
 
-## 🏗️ Estrutura do Monorepo
+## Estrutura do Monorepo
 
 O projeto está dividido nas seguintes áreas principais:
 
@@ -66,7 +66,7 @@ projeto-movie-garden/
 └── package.json
 ```
 
-## ⚙️ Como executar o projeto localmente
+## Como executar o projeto localmente
 
 ### Pré-requisitos
 
@@ -128,12 +128,5 @@ Volte para a raiz do projeto e rode o comando principal:
 pnpm dev
 ```
 Este comando iniciará simultaneamente o Backend (porta 3333) e o Frontend (porta 5173).
-
-## 💡 Próximos Passos (Roadmap)
-
-- [ ] Implementar sistema de avaliação (dar notas aos filmes).
-- [ ] Chat interativo sobre filmes específicos utilizando IA.
-- [ ] Responsividade aprimorada para dispositivos móveis.
-- [ ] Perfil de usuário customizável (avatares, bio).
 
 #### Feito com 💚 e 🍿 no ecossistema TypeScript.
