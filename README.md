@@ -1,13 +1,15 @@
 # Movie Garden
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="left">
+  <img width="40" src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img width="40" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  <img width="40" src="https://skillicons.dev/icons?i=fastify" alt="Fastify" />
+  <img width="40" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+  <img width="40" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" />
+  <img width="40" src="https://skillicons.dev/icons?i=py" alt="Python" />
+</div>
 
-### 🚧 Status do Projeto: Em desenvolvimento ativo (Work in Progress). As funções principais de catálogo e biblioteca já estão funcionais, e o motor de recomendações por IA também, porem as demais funcionalidades ainda estão sendo refinadas.
+### 🔴 Status do Projeto: Em desenvolvimento ativo (Work in Progress). As funções principais de catálogo e biblioteca já estão funcionais, e o motor de recomendações por IA também, porem as demais funcionalidades de review ainda estão sendo refinadas.
 
 > O seu jardim pessoal de filmes e séries. Descubra, salve e receba recomendações inteligentes baseadas no seu gosto.
 
